@@ -3,11 +3,11 @@
 This project analyzes average pupil diameter and reaction times during cued and uncued trials across multiple spatial eccentricity groups and experimental blocks. The data comes from experimental conditions involving emotional face stimuli (Happy, Angry, Neutral) and spatial cues.
 
 ## 📁 Project Structure
-─ D2-8_Q1.ipynb # Jupyter Notebook containing all analysis and plots
-─ pupil_diameter_cued_plot.png # Plot: Average pupil diameter (Cued Trials)
-─ pupil_diameter_uncued_plot.png # Plot: Average pupil diameter (Uncued Trials)
-─ D2-8_ATP.pdf # Final report with interpretations and plots
-─ D2-8/ # DATASET
+- D2-8_Q1.ipynb # Jupyter Notebook containing all analysis and plots
+- pupil_diameter_cued_plot.png # Plot: Average pupil diameter (Cued Trials)
+- pupil_diameter_uncued_plot.png # Plot: Average pupil diameter (Uncued Trials)
+- D2-8_ATP.pdf # Final report with interpretations and plots
+- D2-8/ # DATASET
 
 
 ## 📊 Overview
